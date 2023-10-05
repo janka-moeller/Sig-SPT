@@ -3,7 +3,8 @@
 These codes have been used in the article [Signature Methods in Stochastic Portfolio Theory](https://arxiv.org/abs/2310.02322) by 
 Christa Cuchiero and Janka Möller.
 
-For citations
+For citations:
+
 Cuchiero, C.; Möller, J. Signature Methods in Stochastic Portfolio Theory.
 
     @article{CM:23,
